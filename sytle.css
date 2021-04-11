@@ -121,3 +121,9 @@ span {
 .retry {
   cursor: pointer;
 }
+.outside {
+  margin: 10px;
+  font-size: 20px;
+  color: #c6b3b3;
+  transition: 0.5s;
+}
